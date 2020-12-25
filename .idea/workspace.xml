@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a6bdeec-22c8-484e-a140-8744439b710d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="nightingale-club203" />
+  </component>
+  <component name="GOROOT" path="E:/Installation_location_of_2/go1.14.2" />
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="club203" />
+      </list>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1l5DTuExybXw449AgVSbIUXAzhF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="" />
+    <property name="GO_FMT" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MeasureAgent1.4" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="nightingale-club203" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/" />
+      <package value="nightingale-master" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build nightingale-club203/src/modules/transfer" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="nightingale-club203" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/src/modules/transfer/transfer.go" />
+      <package value="nightingale-club203/src/modules/transfer" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="nightingale-club203" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <package value="nightingale-master" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build nightingale-club203/src/modules/transfer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="???????????" />
+    <option name="LAST_COMMIT_MESSAGE" value="???????????" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>direct</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Deployment" timestamp="1606902771745">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1606902771745" />
+    <state x="552" y="178" key="#Options" timestamp="1606880387527">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Options/0.0.1920.1040@0.0.1920.1040" timestamp="1606880387527" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606879523689">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606879523689" />
+    <state x="216" y="47" width="1298" height="871" key="CommitChangelistDialog2" timestamp="1608882194585">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="216" y="47" width="1298" height="871" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1608882194585" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1607936490102">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607936490102" />
+    <state width="1877" height="215" key="GridCell.Tab.0.bottom" timestamp="1606879565509">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="215" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606879565509" />
+    <state width="1877" height="215" key="GridCell.Tab.0.center" timestamp="1606879565509">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="215" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606879565509" />
+    <state width="1877" height="215" key="GridCell.Tab.0.left" timestamp="1606879565509">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="215" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606879565509" />
+    <state width="1877" height="215" key="GridCell.Tab.0.right" timestamp="1606879565509">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="215" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606879565509" />
+    <state width="1877" height="215" key="GridCell.Tab.1.bottom" timestamp="1606879565509">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="215" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606879565509" />
+    <state width="1877" height="215" key="GridCell.Tab.1.center" timestamp="1606879565509">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="215" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606879565509" />
+    <state width="1877" height="215" key="GridCell.Tab.1.left" timestamp="1606879565509">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="215" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606879565509" />
+    <state width="1877" height="215" key="GridCell.Tab.1.right" timestamp="1606879565509">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="215" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606879565509" />
+    <state x="702" y="242" key="RollbackChangesDialog" timestamp="1606902339368">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="702" y="242" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606902339368" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1606880129239">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606880129239" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607216502210">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607216502210" />
+    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606914264682">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606914264682" />
+    <state x="952" y="220" width="786" height="600" key="find.popup" timestamp="1607217657045">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="952" y="220" width="786" height="600" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607217657045" />
+    <state x="1098" y="332" width="431" height="539" key="ftp.server.browser" timestamp="1606880359197">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1098" y="332" width="431" height="539" key="ftp.server.browser/0.0.1920.1040@0.0.1920.1040" timestamp="1606880359197" />
+    <state x="686" y="311" key="git4idea.merge.GitPullDialog" timestamp="1606914617451">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="686" y="311" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606914617451" />
+    <state x="616" y="173" width="670" height="676" key="search.everywhere.popup" timestamp="1607350302221">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="173" width="670" height="676" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607350302221" />
+  </component>
+</project>
