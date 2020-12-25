@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a6bdeec-22c8-484e-a140-8744439b710d" name="Default Changelist" comment="夜莺提交测试">
+    <list default="true" id="0a6bdeec-22c8-484e-a140-8744439b710d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -143,10 +143,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606879523689" />
-    <state x="216" y="47" width="1298" height="871" key="CommitChangelistDialog2" timestamp="1608883016578">
+    <state x="216" y="47" width="1298" height="871" key="CommitChangelistDialog2" timestamp="1608884058590">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="216" y="47" width="1298" height="871" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1608883016578" />
+    <state x="216" y="47" width="1298" height="871" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1608884058590" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1607936490102">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
